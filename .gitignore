@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+*.log
+backend/whatsapp_auth
+backend/node_modules/
+backend/.env
+.env.*
+build/
